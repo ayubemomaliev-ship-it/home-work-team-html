@@ -111,13 +111,13 @@ button{
 }
 .d5{
     font-size: 18px;
-    padding-top: 10px;
+    padding-top: 20px;
 }
 .e{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 30px 0px;
+    padding: 25px 0px;
 }
 .e1{
     font-size: 22px;

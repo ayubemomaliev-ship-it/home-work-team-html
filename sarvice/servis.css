@@ -1,0 +1,128 @@
+*{
+    margin: 0px;
+}
+p{
+    font-family: "Arimo", sans-serif;
+    font-optical-sizing: auto;
+}
+h1{
+    font-family: "Arimo", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 80px;
+    text-align: center;
+    font-weight: bolder;
+
+}
+.a2{
+    color: white;
+    background-color: #020100;
+    border-bottom: 2px solid #282726;
+}
+.a3{
+    background-color: #000000;
+    color: white;
+    padding-bottom: 150px;
+}
+.a4{
+    background-color: #020100;
+    color: white;
+    padding: 60px 0px;
+}
+.a5{
+    background-color: #201F1F;
+}
+.a{
+    max-width: 1375px;
+    margin: auto;
+}
+.b2{
+    background-color: #201F1F;
+    color: white;
+    border: 2px solid #282726;
+    padding: 12px 30px;
+    font-size: 18px;
+    border-radius: 6px;
+}
+ul{
+    font-size: 18px;
+    font-family: "Arimo", sans-serif;
+    font-optical-sizing: auto;
+    list-style: none;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+button{
+    font-family: "Arimo", sans-serif;
+    font-optical-sizing: auto;
+}
+.b{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 0px;
+}
+.b3{
+    background-color: #201F1F;
+    color: white;
+    border: 2px solid #282726;
+    padding: 14px 30px;
+    font-size: 18px;
+    border-radius: 6px;
+}
+.c{
+    padding-top: 120px;
+}
+.c2{
+    background-color: #FF5200;
+    color: white;
+    border: none;
+    padding: 20px 40px;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-left: 41%;
+    margin-top: 60px;
+}
+.d2{
+    display: flex;
+    align-items: center;
+    border: 2px solid #201F1F;
+    padding: 20px 25px;
+    border-radius: 10px;
+    width: 325px;
+    margin-top: 25px;
+}
+.d2 img{
+    width: 24px;
+}
+.d3{
+    font-size: 18px;
+    color: #8D8D8C;
+    width: 250px;
+    margin-left: 20px;
+}
+.d{
+    display: flex;
+    justify-content: space-between;
+}
+.d4{
+    font-size: 22px;
+    color: #8D8D8C;
+}
+.d5{
+    font-size: 18px;
+    padding-top: 20px;
+}
+.e{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px 0px;
+}
+.e1{
+    font-size: 22px;
+    color: #8D8D8C;
+}
+a{
+    text-decoration: none;
+}
